@@ -1,1 +1,1 @@
-# tempate
+This is a c++ template.
